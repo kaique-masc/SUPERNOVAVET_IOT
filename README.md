@@ -11,6 +11,7 @@ O sistema realiza a leitura da temperatura e classifica o ambiente em níveis de
 - Risco Alto
 
 Quando a temperatura atinge níveis críticos, o sistema ativa alertas visuais e sonoros.
+O projeto completo do Wokwi pode ser baixado [aqui](wokwi_project/wifi-scan.zip)
 
 ---
 
